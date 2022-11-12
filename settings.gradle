@@ -1,0 +1,2 @@
+rootProject.name = "CombineNavigationView"
+include ':app'
